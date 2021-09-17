@@ -1,2 +1,2 @@
 # AttentionTracker
-Attention Tracker with Ruby on Rails
+Attention Tracker with Ruby on Rails.
